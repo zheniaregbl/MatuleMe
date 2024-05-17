@@ -18,6 +18,7 @@ val SecureTextGray = Color(0xFF6A6A6A)
 val TextBlack = Color(0xFF2B2B2B)
 val ButtonWhite = Color(0xFFECECEC)
 val SmallTextWhite = Color(0xFFD8D8D8)
+val MainBackgroundWhite = Color(0xFFF7F7F9)
 
 val DarkBlue = Color(0xFF2B6B8B)
 

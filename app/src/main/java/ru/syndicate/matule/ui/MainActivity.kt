@@ -18,6 +18,7 @@ import androidx.compose.ui.graphics.Brush
 import cafe.adriel.voyager.navigator.Navigator
 import cafe.adriel.voyager.transitions.FadeTransition
 import dagger.hilt.android.AndroidEntryPoint
+import ru.syndicate.matule.shop_part.presentation.MainScreen
 import ru.syndicate.matule.splash.presentation.SplashScreen
 import ru.syndicate.matule.ui.theme.BackgroundGradient
 import ru.syndicate.matule.ui.theme.MatuleTheme
